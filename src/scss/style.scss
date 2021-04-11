@@ -1,0 +1,346 @@
+// Functions
+@import 'px-to-rem';
+
+// Colors
+$male: #3c54ff;
+$female: #e1024b;
+$white: #ffffff;
+$dark: #111111;
+$grey: #575757;
+$light-grey: #888888;
+$success: #00b233;
+
+// Fonts
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('../fonts/RobotoSlab-Light.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+// Icons
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+[class^='icon-'],
+[class*=' icon-'] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+}
+
+// Common
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, $male, $female);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  &::before {
+    content: '';
+    background: url(../images/background.jpg);
+    opacity: 0.7;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+  }
+}
+
+// Spanish word gender (container)
+.swg {
+  position: relative;
+  width: rem(360px);
+  height: rem(500px);
+  background: $white;
+  box-shadow: 0 rem(6px) rem(18px) rem(1px) rgba(0, 0, 0, 0.3);
+  border-radius: rem(10px);
+  padding: rem(40px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  // Header
+  &__header {
+    text-align: center;
+  }
+
+  &__title {
+    font-weight: 300;
+    font-size: rem(26px);
+    letter-spacing: rem(1px);
+  }
+
+  &__title-decoration {
+    position: relative;
+    color: $white;
+
+    &:before,
+    &:after {
+      font-family: 'icomoon';
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    &:before {
+      content: '\e903';
+      margin-top: rem(-8px);
+      color: $male;
+    }
+
+    &:after {
+      content: '\e901';
+      margin-top: rem(8px);
+      color: $female;
+    }
+  }
+
+  &__subtitle {
+    font-weight: 300;
+    font-size: rem(14px);
+    margin-top: rem(5px);
+    letter-spacing: rem(0.75px);
+  }
+
+  &__punctuation-container {
+    margin-top: rem(10px);
+    padding-top: rem(10px);
+    border-top: dotted rem(1px) $light-grey;
+  }
+
+  &__punctuation {
+    text-align: right;
+    font-size: rem(12px);
+    color: $grey;
+    letter-spacing: rem(0.2px);
+  }
+
+  &__plus-one {
+    text-align: right;
+    transition: 0.5s;
+    font-size: rem(13px);
+    letter-spacing: rem(-1px);
+    color: $success;
+    position: relative;
+    top: rem(20px);
+    opacity: 0;
+
+    &--active {
+      top: 0;
+      opacity: 1;
+    }
+  }
+
+  &__right-answers {
+    color: $grey;
+    transition: 0.35s;
+
+    &--active {
+      color: $dark;
+    }
+  }
+
+  // Word
+  &__word-container {
+    margin-top: 0;
+    transition: 0.35s;
+    opacity: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    &--hidden {
+      margin-top: rem(50px);
+      opacity: 0;
+    }
+  }
+
+  &__word {
+    font-size: rem(0px);
+    color: $dark;
+    transition: 0.35s;
+    margin-right: 0;
+
+    &--normal {
+      font-size: rem(50px);
+    }
+
+    &--mini {
+      font-size: rem(35px);
+    }
+
+    &:before {
+      transition: 0.35s;
+      content: '';
+      color: $light-grey;
+      margin-right: 0;
+    }
+
+    &--he:before,
+    &--she:before {
+      margin-right: rem(15px);
+    }
+
+    &--he:before {
+      content: 'el';
+      color: $male;
+    }
+
+    &--she:before {
+      content: 'la';
+      color: $female;
+    }
+  }
+
+  // Error
+  &__error {
+    &:before {
+      content: '\e902';
+      font-size: rem(0px);
+      position: absolute;
+      top: 50%;
+      left: rem(22px);
+      transform: translate(-50%, -50%);
+      display: block;
+      z-index: 1;
+      transition: 0.35s;
+      font-family: 'icomoon';
+      color: $dark;
+      text-shadow: 0 0 rem(6px) $white;
+      opacity: 0.75;
+    }
+
+    &--active:before {
+      font-size: rem(90px);
+    }
+
+    &--mini:before {
+      left: rem(16px);
+    }
+  }
+
+  // Buttons
+  &__buttons-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__button {
+    font-size: rem(32px);
+    outline: 0;
+    width: rem(76px);
+    height: rem(76px);
+    border-radius: 100%;
+    font-family: 'Roboto Slab', serif;
+    overflow: hidden;
+    color: $white;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    border: solid rem(3px) $white;
+    box-shadow: 0 rem(5px) rem(15px) 0 rgba(0, 0, 0, 0.4);
+    text-shadow: 0 rem(2px) rem(1px) rgba(0, 0, 0, 0.2);
+
+    &--female {
+      background-color: $female;
+    }
+
+    &--male {
+      background-color: $male;
+    }
+  }
+
+  // Ripple
+  &__button-ripple {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 100%;
+    transform: scale(0.2);
+    opacity: 0;
+    pointer-events: none;
+    animation: ripple 0.75s ease-out;
+  }
+
+  @keyframes ripple {
+    from {
+      opacity: 1;
+    }
+    to {
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+}
+
+// Media Queries
+@media only screen and (max-width: rem(400px)) {
+  .swg {
+    width: calc(100% - #{rem(40px)});
+    height: calc(100% - #{rem(40px)});
+    padding: rem(30px);
+  }
+}
+
+@media only screen and (max-width: rem(390px)) {
+  .swg__title {
+    letter-spacing: rem(0.5px);
+  }
+
+  .swg__subtitle {
+    letter-spacing: rem(0.55px);
+  }
+}
+
+@media only screen and (max-width: rem(370px)) {
+  .swg__title {
+    letter-spacing: rem(0.1px);
+  }
+
+  .swg__subtitle {
+    letter-spacing: rem(0.3px);
+  }
+}
+
+@media only screen and (max-width: rem(359px)) {
+  .swg {
+    width: 100%;
+    height: 100%;
+    box-shadow: none;
+    border-radius: inherit;
+  }
+}

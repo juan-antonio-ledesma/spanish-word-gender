@@ -1,0 +1,2108 @@
+{
+  "words": [
+    {
+      "word": "niño",
+      "gender": "m"
+    },
+    {
+      "word": "chico",
+      "gender": "m"
+    },
+    {
+      "word": "hijo",
+      "gender": "m"
+    },
+    {
+      "word": "padre",
+      "gender": "m"
+    },
+    {
+      "word": "doctor",
+      "gender": "m"
+    },
+    {
+      "word": "cocinero",
+      "gender": "m"
+    },
+    {
+      "word": "profesor",
+      "gender": "m"
+    },
+    {
+      "word": "director",
+      "gender": "m"
+    },
+    {
+      "word": "marqués",
+      "gender": "m"
+    },
+    {
+      "word": "actor",
+      "gender": "m"
+    },
+    {
+      "word": "rey",
+      "gender": "m"
+    },
+    {
+      "word": "marido",
+      "gender": "m"
+    },
+    {
+      "word": "alcalde",
+      "gender": "m"
+    },
+    {
+      "word": "día",
+      "gender": "m"
+    },
+    {
+      "word": "idioma",
+      "gender": "m"
+    },
+    {
+      "word": "mapa",
+      "gender": "m"
+    },
+    {
+      "word": "problema",
+      "gender": "m"
+    },
+    {
+      "word": "pijama",
+      "gender": "m"
+    },
+    {
+      "word": "planeta",
+      "gender": "m"
+    },
+    {
+      "word": "sistema",
+      "gender": "m"
+    },
+    {
+      "word": "clima",
+      "gender": "m"
+    },
+    {
+      "word": "tema",
+      "gender": "m"
+    },
+    {
+      "word": "dilema",
+      "gender": "m"
+    },
+    {
+      "word": "libro",
+      "gender": "m"
+    },
+    {
+      "word": "teléfono",
+      "gender": "m"
+    },
+    {
+      "word": "vaso",
+      "gender": "m"
+    },
+    {
+      "word": "carro",
+      "gender": "m"
+    },
+    {
+      "word": "brazo",
+      "gender": "m"
+    },
+    {
+      "word": "plato",
+      "gender": "m"
+    },
+    {
+      "word": "restaurante",
+      "gender": "m"
+    },
+    {
+      "word": "coche",
+      "gender": "m"
+    },
+    {
+      "word": "hotel",
+      "gender": "m"
+    },
+    {
+      "word": "lápiz",
+      "gender": "m"
+    },
+    {
+      "word": "árbol",
+      "gender": "m"
+    },
+    {
+      "word": "menú",
+      "gender": "m"
+    },
+    {
+      "word": "cuaderno",
+      "gender": "m"
+    },
+    {
+      "word": "reloj",
+      "gender": "m"
+    },
+    {
+      "word": "minuto",
+      "gender": "m"
+    },
+    {
+      "word": "segundo",
+      "gender": "m"
+    },
+    {
+      "word": "mes",
+      "gender": "m"
+    },
+    {
+      "word": "pantalón",
+      "gender": "m"
+    },
+    {
+      "word": "jersey",
+      "gender": "m"
+    },
+    {
+      "word": "pez",
+      "gender": "m"
+    },
+    {
+      "word": "pájaro",
+      "gender": "m"
+    },
+    {
+      "word": "ratón",
+      "gender": "m"
+    },
+    {
+      "word": "conejo",
+      "gender": "m"
+    },
+    {
+      "word": "elefante",
+      "gender": "m"
+    },
+    {
+      "word": "gato",
+      "gender": "m"
+    },
+    {
+      "word": "perro",
+      "gender": "m"
+    },
+    {
+      "word": "león",
+      "gender": "m"
+    },
+    {
+      "word": "caballo",
+      "gender": "m"
+    },
+    {
+      "word": "toro",
+      "gender": "m"
+    },
+    {
+      "word": "gallo",
+      "gender": "m"
+    },
+    {
+      "word": "paraguas",
+      "gender": "m"
+    },
+    {
+      "word": "cumpleaños",
+      "gender": "m"
+    },
+    {
+      "word": "sacacorchos",
+      "gender": "m"
+    },
+    {
+      "word": "mondadientes",
+      "gender": "m"
+    },
+    {
+      "word": "niña",
+      "gender": "f"
+    },
+    {
+      "word": "chica",
+      "gender": "f"
+    },
+    {
+      "word": "hija",
+      "gender": "f"
+    },
+    {
+      "word": "madre",
+      "gender": "f"
+    },
+    {
+      "word": "camarera",
+      "gender": "f"
+    },
+    {
+      "word": "doctora",
+      "gender": "f"
+    },
+    {
+      "word": "cocinera",
+      "gender": "f"
+    },
+    {
+      "word": "profesora",
+      "gender": "f"
+    },
+    {
+      "word": "directora",
+      "gender": "f"
+    },
+    {
+      "word": "marquesa",
+      "gender": "f"
+    },
+    {
+      "word": "actriz",
+      "gender": "f"
+    },
+    {
+      "word": "reina",
+      "gender": "f"
+    },
+    {
+      "word": "mujer",
+      "gender": "f"
+    },
+    {
+      "word": "alcaldesa",
+      "gender": "f"
+    },
+    {
+      "word": "mano",
+      "gender": "f"
+    },
+    {
+      "word": "foto",
+      "gender": "f"
+    },
+    {
+      "word": "radio",
+      "gender": "f"
+    },
+    {
+      "word": "moto",
+      "gender": "f"
+    },
+    {
+      "word": "mesa",
+      "gender": "f"
+    },
+    {
+      "word": "silla",
+      "gender": "f"
+    },
+    {
+      "word": "casa",
+      "gender": "f"
+    },
+    {
+      "word": "tortilla",
+      "gender": "f"
+    },
+    {
+      "word": "caja",
+      "gender": "f"
+    },
+    {
+      "word": "cara",
+      "gender": "f"
+    },
+    {
+      "word": "clase",
+      "gender": "f"
+    },
+    {
+      "word": "noche",
+      "gender": "f"
+    },
+    {
+      "word": "luz",
+      "gender": "f"
+    },
+    {
+      "word": "leche",
+      "gender": "f"
+    },
+    {
+      "word": "sal",
+      "gender": "f"
+    },
+    {
+      "word": "flor",
+      "gender": "f"
+    },
+    {
+      "word": "planta",
+      "gender": "f"
+    },
+    {
+      "word": "carta",
+      "gender": "f"
+    },
+    {
+      "word": "libreta",
+      "gender": "f"
+    },
+    {
+      "word": "judía",
+      "gender": "f"
+    },
+    {
+      "word": "hora",
+      "gender": "f"
+    },
+    {
+      "word": "semana",
+      "gender": "f"
+    },
+    {
+      "word": "ley",
+      "gender": "f"
+    },
+    {
+      "word": "camiseta",
+      "gender": "f"
+    },
+    {
+      "word": "sudadera",
+      "gender": "f"
+    },
+    {
+      "word": "canción",
+      "gender": "f"
+    },
+    {
+      "word": "habitación",
+      "gender": "f"
+    },
+    {
+      "word": "televisión",
+      "gender": "f"
+    },
+    {
+      "word": "información",
+      "gender": "f"
+    },
+    {
+      "word": "acción",
+      "gender": "f"
+    },
+    {
+      "word": "conversación",
+      "gender": "f"
+    },
+    {
+      "word": "pasión",
+      "gender": "f"
+    },
+    {
+      "word": "ciudad",
+      "gender": "f"
+    },
+    {
+      "word": "universidad",
+      "gender": "f"
+    },
+    {
+      "word": "libertad",
+      "gender": "f"
+    },
+    {
+      "word": "felicidad",
+      "gender": "f"
+    },
+    {
+      "word": "realidad",
+      "gender": "f"
+    },
+    {
+      "word": "jirafa",
+      "gender": "f"
+    },
+    {
+      "word": "serpiente",
+      "gender": "f"
+    },
+    {
+      "word": "rana",
+      "gender": "f"
+    },
+    {
+      "word": "sardina",
+      "gender": "f"
+    },
+    {
+      "word": "tortuga",
+      "gender": "f"
+    },
+    {
+      "word": "gata",
+      "gender": "f"
+    },
+    {
+      "word": "perra",
+      "gender": "f"
+    },
+    {
+      "word": "leona",
+      "gender": "f"
+    },
+    {
+      "word": "yegua",
+      "gender": "f"
+    },
+    {
+      "word": "vaca",
+      "gender": "f"
+    },
+    {
+      "word": "gallina",
+      "gender": "f"
+    },
+    {
+      "word": "primavera",
+      "gender": "f"
+    },
+    {
+      "word": "verano",
+      "gender": "m"
+    },
+    {
+      "word": "estación",
+      "gender": "f"
+    },
+    {
+      "word": "otoño",
+      "gender": "m"
+    },
+    {
+      "word": "invierno",
+      "gender": "m"
+    },
+    {
+      "word": "guitarra",
+      "gender": "f"
+    },
+    {
+      "word": "piano",
+      "gender": "m"
+    },
+    {
+      "word": "adulto",
+      "gender": "m"
+    },
+    {
+      "word": "tarde",
+      "gender": "f"
+    },
+    {
+      "word": "aire",
+      "gender": "m"
+    },
+    {
+      "word": "puerto",
+      "gender": "m"
+    },
+    {
+      "word": "animal",
+      "gender": "m"
+    },
+    {
+      "word": "apartamento",
+      "gender": "m"
+    },
+    {
+      "word": "manzana",
+      "gender": "f"
+    },
+    {
+      "word": "codo",
+      "gender": "m"
+    },
+    {
+      "word": "pierna",
+      "gender": "f"
+    },
+    {
+      "word": "tierra",
+      "gender": "f"
+    },
+    {
+      "word": "habitación",
+      "gender": "f"
+    },
+    {
+      "word": "plátano",
+      "gender": "m"
+    },
+    {
+      "word": "ejército",
+      "gender": "m"
+    },
+    {
+      "word": "guerrilla",
+      "gender": "f"
+    },
+    {
+      "word": "arte",
+      "gender": "m"
+    },
+    {
+      "word": "artista",
+      "gender": "m"
+    },
+    {
+      "word": "ataque",
+      "gender": "m"
+    },
+    {
+      "word": "disciplina",
+      "gender": "f"
+    },
+    {
+      "word": "defensa",
+      "gender": "f"
+    },
+    {
+      "word": "bebé",
+      "gender": "m"
+    },
+    {
+      "word": "espalda",
+      "gender": "f"
+    },
+    {
+      "word": "bolsa",
+      "gender": "f"
+    },
+    {
+      "word": "bolso",
+      "gender": "m"
+    },
+    {
+      "word": "pelota",
+      "gender": "f"
+    },
+    {
+      "word": "balón",
+      "gender": "m"
+    },
+    {
+      "word": "banana",
+      "gender": "f"
+    },
+    {
+      "word": "cacahuete",
+      "gender": "m"
+    },
+    {
+      "word": "grupo",
+      "gender": "m"
+    },
+    {
+      "word": "banda",
+      "gender": "f"
+    },
+    {
+      "word": "banco",
+      "gender": "m"
+    },
+    {
+      "word": "banca",
+      "gender": "f"
+    },
+    {
+      "word": "playa",
+      "gender": "f"
+    },
+    {
+      "word": "barba",
+      "gender": "f"
+    },
+    {
+      "word": "bigote",
+      "gender": "m"
+    },
+    {
+      "word": "cama",
+      "gender": "f"
+    },
+    {
+      "word": "dormitorio",
+      "gender": "m"
+    },
+    {
+      "word": "carne",
+      "gender": "f"
+    },
+    {
+      "word": "pescado",
+      "gender": "m"
+    },
+    {
+      "word": "cerveza",
+      "gender": "f"
+    },
+    {
+      "word": "vino",
+      "gender": "m"
+    },
+    {
+      "word": "cuento",
+      "gender": "m"
+    },
+    {
+      "word": "cuenta",
+      "gender": "f"
+    },
+    {
+      "word": "sangre",
+      "gender": "f"
+    },
+    {
+      "word": "barco",
+      "gender": "m"
+    },
+    {
+      "word": "barca",
+      "gender": "f"
+    },
+    {
+      "word": "cuerpo",
+      "gender": "m"
+    },
+    {
+      "word": "persona",
+      "gender": "f"
+    },
+    {
+      "word": "gente",
+      "gender": "f"
+    },
+    {
+      "word": "pueblo",
+      "gender": "m"
+    },
+    {
+      "word": "hueso",
+      "gender": "m"
+    },
+    {
+      "word": "libro",
+      "gender": "m"
+    },
+    {
+      "word": "botella",
+      "gender": "f"
+    },
+    {
+      "word": "culo",
+      "gender": "m"
+    },
+    {
+      "word": "fondo",
+      "gender": "m"
+    },
+    {
+      "word": "caja",
+      "gender": "f"
+    },
+    {
+      "word": "cerebro",
+      "gender": "m"
+    },
+    {
+      "word": "pan",
+      "gender": "m"
+    },
+    {
+      "word": "desayuno",
+      "gender": "m"
+    },
+    {
+      "word": "merienda",
+      "gender": "f"
+    },
+    {
+      "word": "puente",
+      "gender": "m"
+    },
+    {
+      "word": "fuente",
+      "gender": "f"
+    },
+    {
+      "word": "edificio",
+      "gender": "m"
+    },
+    {
+      "word": "azotea",
+      "gender": "f"
+    },
+    {
+      "word": "tejado",
+      "gender": "m"
+    },
+    {
+      "word": "fábrica",
+      "gender": "f"
+    },
+    {
+      "word": "bus",
+      "gender": "m"
+    },
+    {
+      "word": "pastel",
+      "gender": "m"
+    },
+    {
+      "word": "tarta",
+      "gender": "f"
+    },
+    {
+      "word": "tarjeta",
+      "gender": "f"
+    },
+    {
+      "word": "carnet",
+      "gender": "m"
+    },
+    {
+      "word": "campo",
+      "gender": "m"
+    },
+    {
+      "word": "pradera",
+      "gender": "f"
+    },
+    {
+      "word": "gato",
+      "gender": "m"
+    },
+    {
+      "word": "gata",
+      "gender": "f"
+    },
+    {
+      "word": "techo",
+      "gender": "m"
+    },
+    {
+      "word": "pared",
+      "gender": "f"
+    },
+    {
+      "word": "emisora",
+      "gender": "f"
+    },
+    {
+      "word": "metro",
+      "gender": "m"
+    },
+    {
+      "word": "parada",
+      "gender": "f"
+    },
+    {
+      "word": "queso",
+      "gender": "m"
+    },
+    {
+      "word": "pollo",
+      "gender": "m"
+    },
+    {
+      "word": "gallina",
+      "gender": "f"
+    },
+    {
+      "word": "iglesia",
+      "gender": "f"
+    },
+    {
+      "word": "templo",
+      "gender": "m"
+    },
+    {
+      "word": "círculo",
+      "gender": "m"
+    },
+    {
+      "word": "esfera",
+      "gender": "f"
+    },
+    {
+      "word": "circunferencia",
+      "gender": "f"
+    },
+    {
+      "word": "perímetro",
+      "gender": "m"
+    },
+    {
+      "word": "barro",
+      "gender": "m"
+    },
+    {
+      "word": "ropa",
+      "gender": "f"
+    },
+    {
+      "word": "armario",
+      "gender": "m"
+    },
+    {
+      "word": "bar",
+      "gender": "m"
+    },
+    {
+      "word": "cafetería",
+      "gender": "f"
+    },
+    {
+      "word": "abrigo",
+      "gender": "m"
+    },
+    {
+      "word": "chaqueta",
+      "gender": "f"
+    },
+    {
+      "word": "café",
+      "gender": "m"
+    },
+    {
+      "word": "color",
+      "gender": "m"
+    },
+    {
+      "word": "consonante",
+      "gender": "f"
+    },
+    {
+      "word": "vocal",
+      "gender": "f"
+    },
+    {
+      "word": "contrato",
+      "gender": "m"
+    },
+    {
+      "word": "maíz",
+      "gender": "m"
+    },
+    {
+      "word": "esquina",
+      "gender": "f"
+    },
+    {
+      "word": "país",
+      "gender": "m"
+    },
+    {
+      "word": "frase",
+      "gender": "f"
+    },
+    {
+      "word": "vaca",
+      "gender": "f"
+    },
+    {
+      "word": "toro",
+      "gender": "m"
+    },
+    {
+      "word": "multitud",
+      "gender": "f"
+    },
+    {
+      "word": "copa",
+      "gender": "f"
+    },
+    {
+      "word": "vaso",
+      "gender": "m"
+    },
+    {
+      "word": "oscuridad",
+      "gender": "f"
+    },
+    {
+      "word": "baile",
+      "gender": "m"
+    },
+    {
+      "word": "danza",
+      "gender": "f"
+    },
+    {
+      "word": "fecha",
+      "gender": "f"
+    },
+    {
+      "word": "día",
+      "gender": "m"
+    },
+    {
+      "word": "muerte",
+      "gender": "f"
+    },
+    {
+      "word": "vida",
+      "gender": "f"
+    },
+    {
+      "word": "diamante",
+      "gender": "m"
+    },
+    {
+      "word": "cena",
+      "gender": "f"
+    },
+    {
+      "word": "dirección",
+      "gender": "f"
+    },
+    {
+      "word": "enfermedad",
+      "gender": "f"
+    },
+    {
+      "word": "paciencia",
+      "gender": "f"
+    },
+    {
+      "word": "euro",
+      "gender": "m"
+    },
+    {
+      "word": "moneda",
+      "gender": "f"
+    },
+    {
+      "word": "puerta",
+      "gender": "f"
+    },
+    {
+      "word": "billete",
+      "gender": "m"
+    },
+    {
+      "word": "punto",
+      "gender": "m"
+    },
+    {
+      "word": "esperanza",
+      "gender": "f"
+    },
+    {
+      "word": "sueño",
+      "gender": "m"
+    },
+    {
+      "word": "vestido",
+      "gender": "m"
+    },
+    {
+      "word": "falda",
+      "gender": "f"
+    },
+    {
+      "word": "pantalón",
+      "gender": "m"
+    },
+    {
+      "word": "camisa",
+      "gender": "f"
+    },
+    {
+      "word": "bebida",
+      "gender": "f"
+    },
+    {
+      "word": "droga",
+      "gender": "f"
+    },
+    {
+      "word": "oreja",
+      "gender": "f"
+    },
+    {
+      "word": "polvo",
+      "gender": "m"
+    },
+    {
+      "word": "oeste",
+      "gender": "m"
+    },
+    {
+      "word": "borde",
+      "gender": "m"
+    },
+    {
+      "word": "huevo",
+      "gender": "m"
+    },
+    {
+      "word": "sur",
+      "gender": "m"
+    },
+    {
+      "word": "norte",
+      "gender": "m"
+    },
+    {
+      "word": "elección",
+      "gender": "f"
+    },
+    {
+      "word": "electricidad",
+      "gender": "f"
+    },
+    {
+      "word": "energía",
+      "gender": "f"
+    },
+    {
+      "word": "motor",
+      "gender": "m"
+    },
+    {
+      "word": "ejercicio",
+      "gender": "m"
+    },
+    {
+      "word": "explosión",
+      "gender": "f"
+    },
+    {
+      "word": "ojo",
+      "gender": "m"
+    },
+    {
+      "word": "cara",
+      "gender": "f"
+    },
+    {
+      "word": "caída",
+      "gender": "f"
+    },
+    {
+      "word": "familia",
+      "gender": "f"
+    },
+    {
+      "word": "ventilador",
+      "gender": "m"
+    },
+    {
+      "word": "fama",
+      "gender": "f"
+    },
+    {
+      "word": "granja",
+      "gender": "f"
+    },
+    {
+      "word": "dedo",
+      "gender": "m"
+    },
+    {
+      "word": "lucha",
+      "gender": "f"
+    },
+    {
+      "word": "fuego",
+      "gender": "m"
+    },
+    {
+      "word": "naturaleza",
+      "gender": "f"
+    },
+    {
+      "word": "suelo",
+      "gender": "m"
+    },
+    {
+      "word": "piso",
+      "gender": "m"
+    },
+    {
+      "word": "flor",
+      "gender": "f"
+    },
+    {
+      "word": "mosca",
+      "gender": "f"
+    },
+    {
+      "word": "pie",
+      "gender": "m"
+    },
+    {
+      "word": "bosque",
+      "gender": "m"
+    },
+    {
+      "word": "tenedor",
+      "gender": "m"
+    },
+    {
+      "word": "amiga",
+      "gender": "f"
+    },
+    {
+      "word": "amigo",
+      "gender": "m"
+    },
+    {
+      "word": "juego",
+      "gender": "m"
+    },
+    {
+      "word": "jardín",
+      "gender": "m"
+    },
+    {
+      "word": "gasolina",
+      "gender": "f"
+    },
+    {
+      "word": "regalo",
+      "gender": "m"
+    },
+    {
+      "word": "cristal",
+      "gender": "m"
+    },
+    {
+      "word": "salida",
+      "gender": "f"
+    },
+    {
+      "word": "oro",
+      "gender": "m"
+    },
+    {
+      "word": "hierba",
+      "gender": "f"
+    },
+    {
+      "word": "césped",
+      "gender": "m"
+    },
+    {
+      "word": "razón",
+      "gender": "f"
+    },
+    {
+      "word": "pelo",
+      "gender": "m"
+    },
+    {
+      "word": "mitad",
+      "gender": "f"
+    },
+    {
+      "word": "sombrero",
+      "gender": "m"
+    },
+    {
+      "word": "cabeza",
+      "gender": "f"
+    },
+    {
+      "word": "salud",
+      "gender": "f"
+    },
+    {
+      "word": "dinero",
+      "gender": "m"
+    },
+    {
+      "word": "amor",
+      "gender": "m"
+    },
+    {
+      "word": "corazón",
+      "gender": "m"
+    },
+    {
+      "word": "calor",
+      "gender": "m"
+    },
+    {
+      "word": "frío",
+      "gender": "m"
+    },
+    {
+      "word": "paraíso",
+      "gender": "m"
+    },
+    {
+      "word": "infierno",
+      "gender": "m"
+    },
+    {
+      "word": "altura",
+      "gender": "f"
+    },
+    {
+      "word": "monte",
+      "gender": "m"
+    },
+    {
+      "word": "montaña",
+      "gender": "f"
+    },
+    {
+      "word": "agujero",
+      "gender": "m"
+    },
+    {
+      "word": "hospital",
+      "gender": "m"
+    },
+    {
+      "word": "hotel",
+      "gender": "m"
+    },
+    {
+      "word": "humano",
+      "gender": "m"
+    },
+    {
+      "word": "marido",
+      "gender": "m"
+    },
+    {
+      "word": "hielo",
+      "gender": "m"
+    },
+    {
+      "word": "imagen",
+      "gender": "f"
+    },
+    {
+      "word": "herida",
+      "gender": "f"
+    },
+    {
+      "word": "lesión",
+      "gender": "f"
+    },
+    {
+      "word": "interior",
+      "gender": "m"
+    },
+    {
+      "word": "isla",
+      "gender": "f"
+    },
+    {
+      "word": "exterior",
+      "gender": "m"
+    },
+    {
+      "word": "instrumento",
+      "gender": "m"
+    },
+    {
+      "word": "empleo",
+      "gender": "m"
+    },
+    {
+      "word": "zumo",
+      "gender": "m"
+    },
+    {
+      "word": "jugo",
+      "gender": "m"
+    },
+    {
+      "word": "llave",
+      "gender": "f"
+    },
+    {
+      "word": "asesinato",
+      "gender": "m"
+    },
+    {
+      "word": "cocina",
+      "gender": "f"
+    },
+    {
+      "word": "beso",
+      "gender": "m"
+    },
+    {
+      "word": "cuchillo",
+      "gender": "m"
+    },
+    {
+      "word": "rodilla",
+      "gender": "f"
+    },
+    {
+      "word": "lámpara",
+      "gender": "f"
+    },
+    {
+      "word": "lago",
+      "gender": "m"
+    },
+    {
+      "word": "laguna",
+      "gender": "f"
+    },
+    {
+      "word": "computadora",
+      "gender": "f"
+    },
+    {
+      "word": "ordenador",
+      "gender": "m"
+    },
+    {
+      "word": "abogado",
+      "gender": "m"
+    },
+    {
+      "word": "risa",
+      "gender": "f"
+    },
+    {
+      "word": "hoja",
+      "gender": "f"
+    },
+    {
+      "word": "sonrisa",
+      "gender": "f"
+    },
+    {
+      "word": "limón",
+      "gender": "m"
+    },
+    {
+      "word": "carta",
+      "gender": "f"
+    },
+    {
+      "word": "biblioteca",
+      "gender": "f"
+    },
+    {
+      "word": "luz",
+      "gender": "f"
+    },
+    {
+      "word": "labio",
+      "gender": "m"
+    },
+    {
+      "word": "sitio",
+      "gender": "m"
+    },
+    {
+      "word": "lugar",
+      "gender": "m"
+    },
+    {
+      "word": "ubicación",
+      "gender": "f"
+    },
+    {
+      "word": "candado",
+      "gender": "m"
+    },
+    {
+      "word": "taquilla",
+      "gender": "f"
+    },
+    {
+      "word": "almuerzo",
+      "gender": "m"
+    },
+    {
+      "word": "revista",
+      "gender": "f"
+    },
+    {
+      "word": "mapa",
+      "gender": "m"
+    },
+    {
+      "word": "periódico",
+      "gender": "m"
+    },
+    {
+      "word": "mercado",
+      "gender": "m"
+    },
+    {
+      "word": "matrimonio",
+      "gender": "m"
+    },
+    {
+      "word": "boda",
+      "gender": "f"
+    },
+    {
+      "word": "material",
+      "gender": "m"
+    },
+    {
+      "word": "medicina",
+      "gender": "f"
+    },
+    {
+      "word": "metal",
+      "gender": "m"
+    },
+    {
+      "word": "leche",
+      "gender": "f"
+    },
+    {
+      "word": "millón",
+      "gender": "m"
+    },
+    {
+      "word": "mezcla",
+      "gender": "f"
+    },
+    {
+      "word": "luna",
+      "gender": "f"
+    },
+    {
+      "word": "sol",
+      "gender": "m"
+    },
+    {
+      "word": "estrella",
+      "gender": "f"
+    },
+    {
+      "word": "ratón",
+      "gender": "m"
+    },
+    {
+      "word": "boca",
+      "gender": "f"
+    },
+    {
+      "word": "película",
+      "gender": "f"
+    },
+    {
+      "word": "música",
+      "gender": "f"
+    },
+    {
+      "word": "cuello",
+      "gender": "m"
+    },
+    {
+      "word": "aguja",
+      "gender": "f"
+    },
+    {
+      "word": "barrio",
+      "gender": "m"
+    },
+    {
+      "word": "vecino",
+      "gender": "m"
+    },
+    {
+      "word": "vecina",
+      "gender": "f"
+    },
+    {
+      "word": "red",
+      "gender": "f"
+    },
+    {
+      "word": "noticia",
+      "gender": "f"
+    },
+    {
+      "word": "simpatía",
+      "gender": "f"
+    },
+    {
+      "word": "noche",
+      "gender": "f"
+    },
+    {
+      "word": "nariz",
+      "gender": "f"
+    },
+    {
+      "word": "nota",
+      "gender": "f"
+    },
+    {
+      "word": "núcleo",
+      "gender": "m"
+    },
+    {
+      "word": "número",
+      "gender": "m"
+    },
+    {
+      "word": "letra",
+      "gender": "f"
+    },
+    {
+      "word": "océano",
+      "gender": "m"
+    },
+    {
+      "word": "mar",
+      "gender": "m"
+    },
+    {
+      "word": "oficina",
+      "gender": "f"
+    },
+    {
+      "word": "aceite",
+      "gender": "m"
+    },
+    {
+      "word": "juventud",
+      "gender": "f"
+    },
+    {
+      "word": "dolor",
+      "gender": "m"
+    },
+    {
+      "word": "página",
+      "gender": "f"
+    },
+    {
+      "word": "pintura",
+      "gender": "f"
+    },
+    {
+      "word": "papel",
+      "gender": "m"
+    },
+    {
+      "word": "parque",
+      "gender": "m"
+    },
+    {
+      "word": "patrón",
+      "gender": "m"
+    },
+    {
+      "word": "paz",
+      "gender": "f"
+    },
+    {
+      "word": "bolígrafo",
+      "gender": "m"
+    },
+    {
+      "word": "lápiz",
+      "gender": "m"
+    },
+    {
+      "word": "foto",
+      "gender": "f"
+    },
+    {
+      "word": "trozo",
+      "gender": "m"
+    },
+    {
+      "word": "pieza",
+      "gender": "f"
+    },
+    {
+      "word": "cerdo",
+      "gender": "m"
+    },
+    {
+      "word": "planta",
+      "gender": "f"
+    },
+    {
+      "word": "avión",
+      "gender": "m"
+    },
+    {
+      "word": "plástico",
+      "gender": "m"
+    },
+    {
+      "word": "plato",
+      "gender": "m"
+    },
+    {
+      "word": "matrícula",
+      "gender": "f"
+    },
+    {
+      "word": "jugador",
+      "gender": "m"
+    },
+    {
+      "word": "jugadora",
+      "gender": "m"
+    },
+    {
+      "word": "bolsillo",
+      "gender": "m"
+    },
+    {
+      "word": "veneno",
+      "gender": "m"
+    },
+    {
+      "word": "piscina",
+      "gender": "f"
+    },
+    {
+      "word": "pobreza",
+      "gender": "f"
+    },
+    {
+      "word": "precio",
+      "gender": "m"
+    },
+    {
+      "word": "prisión",
+      "gender": "f"
+    },
+    {
+      "word": "cárcel",
+      "gender": "f"
+    },
+    {
+      "word": "orfanato",
+      "gender": "m"
+    },
+    {
+      "word": "programa",
+      "gender": "m"
+    },
+    {
+      "word": "raza",
+      "gender": "f"
+    },
+    {
+      "word": "carrera",
+      "gender": "f"
+    },
+    {
+      "word": "lluvia",
+      "gender": "f"
+    },
+    {
+      "word": "religión",
+      "gender": "f"
+    },
+    {
+      "word": "chubasquero",
+      "gender": "m"
+    },
+    {
+      "word": "restaurante",
+      "gender": "m"
+    },
+    {
+      "word": "reportaje",
+      "gender": "m"
+    },
+    {
+      "word": "arroz",
+      "gender": "m"
+    },
+    {
+      "word": "riqueza",
+      "gender": "f"
+    },
+    {
+      "word": "anillo",
+      "gender": "m"
+    },
+    {
+      "word": "río",
+      "gender": "m"
+    },
+    {
+      "word": "raíz",
+      "gender": "f"
+    },
+    {
+      "word": "tristeza",
+      "gender": "f"
+    },
+    {
+      "word": "alegría",
+      "gender": "f"
+    },
+    {
+      "word": "felicidad",
+      "gender": "f"
+    },
+    {
+      "word": "sal",
+      "gender": "f"
+    },
+    {
+      "word": "arena",
+      "gender": "f"
+    },
+    {
+      "word": "escuela",
+      "gender": "f"
+    },
+    {
+      "word": "ciencia",
+      "gender": "f"
+    },
+    {
+      "word": "pantalla",
+      "gender": "f"
+    },
+    {
+      "word": "secretario",
+      "gender": "m"
+    },
+    {
+      "word": "secretaría",
+      "gender": "f"
+    },
+    {
+      "word": "semilla",
+      "gender": "f"
+    },
+    {
+      "word": "sexo",
+      "gender": "m"
+    },
+    {
+      "word": "nave",
+      "gender": "f"
+    },
+    {
+      "word": "hombro",
+      "gender": "m"
+    },
+    {
+      "word": "lado",
+      "gender": "m"
+    },
+    {
+      "word": "firma",
+      "gender": "f"
+    },
+    {
+      "word": "plata",
+      "gender": "f"
+    },
+    {
+      "word": "canción",
+      "gender": "f"
+    },
+    {
+      "word": "piel",
+      "gender": "f"
+    },
+    {
+      "word": "cielo",
+      "gender": "m"
+    },
+    {
+      "word": "olor",
+      "gender": "m"
+    },
+    {
+      "word": "nieve",
+      "gender": "f"
+    },
+    {
+      "word": "jabón",
+      "gender": "m"
+    },
+    {
+      "word": "onda",
+      "gender": "f"
+    },
+    {
+      "word": "sonido",
+      "gender": "m"
+    },
+    {
+      "word": "sopa",
+      "gender": "f"
+    },
+    {
+      "word": "espacio",
+      "gender": "m"
+    },
+    {
+      "word": "cuchara",
+      "gender": "f"
+    },
+    {
+      "word": "deporte",
+      "gender": "m"
+    },
+    {
+      "word": "plaza",
+      "gender": "f"
+    },
+    {
+      "word": "mancha",
+      "gender": "f"
+    },
+    {
+      "word": "piedra",
+      "gender": "f"
+    },
+    {
+      "word": "tienda",
+      "gender": "f"
+    },
+    {
+      "word": "calle",
+      "gender": "f"
+    },
+    {
+      "word": "carretera",
+      "gender": "f"
+    },
+    {
+      "word": "fuerza",
+      "gender": "f"
+    },
+    {
+      "word": "azúcar",
+      "gender": "m"
+    },
+    {
+      "word": "traje",
+      "gender": "m"
+    },
+    {
+      "word": "sudor",
+      "gender": "m"
+    },
+    {
+      "word": "sabor",
+      "gender": "m"
+    },
+    {
+      "word": "té",
+      "gender": "m"
+    },
+    {
+      "word": "equipo",
+      "gender": "m"
+    },
+    {
+      "word": "lágrima",
+      "gender": "f"
+    },
+    {
+      "word": "tecnología",
+      "gender": "f"
+    },
+    {
+      "word": "televisión",
+      "gender": "f"
+    },
+    {
+      "word": "temperatura",
+      "gender": "f"
+    },
+    {
+      "word": "teatro",
+      "gender": "m"
+    },
+    {
+      "word": "escena",
+      "gender": "f"
+    },
+    {
+      "word": "árbol",
+      "gender": "m"
+    },
+    {
+      "word": "tique",
+      "gender": "m"
+    },
+    {
+      "word": "entrada",
+      "gender": "f"
+    },
+    {
+      "word": "pasaje",
+      "gender": "m"
+    },
+    {
+      "word": "rueda",
+      "gender": "f"
+    },
+    {
+      "word": "tiempo",
+      "gender": "m"
+    },
+    {
+      "word": "lengua",
+      "gender": "f"
+    },
+    {
+      "word": "herramienta",
+      "gender": "f"
+    },
+    {
+      "word": "diente",
+      "gender": "m"
+    },
+    {
+      "word": "cima",
+      "gender": "f"
+    },
+    {
+      "word": "tren",
+      "gender": "m"
+    },
+    {
+      "word": "transporte",
+      "gender": "m"
+    },
+    {
+      "word": "camión",
+      "gender": "m"
+    },
+    {
+      "word": "turno",
+      "gender": "m"
+    },
+    {
+      "word": "universidad",
+      "gender": "f"
+    },
+    {
+      "word": "valle",
+      "gender": "m"
+    },
+    {
+      "word": "víctima",
+      "gender": "f"
+    },
+    {
+      "word": "verbo",
+      "gender": "m"
+    },
+    {
+      "word": "voz",
+      "gender": "f"
+    },
+    {
+      "word": "camarero",
+      "gender": "m"
+    },
+    {
+      "word": "camarera",
+      "gender": "f"
+    },
+    {
+      "word": "amanecer",
+      "gender": "m"
+    },
+    {
+      "word": "atardecer",
+      "gender": "m"
+    },
+    {
+      "word": "muro",
+      "gender": "m"
+    },
+    {
+      "word": "muralla",
+      "gender": "f"
+    },
+    {
+      "word": "guerra",
+      "gender": "f"
+    },
+    {
+      "word": "ola",
+      "gender": "f"
+    },
+    {
+      "word": "debilidad",
+      "gender": "f"
+    },
+    {
+      "word": "semana",
+      "gender": "f"
+    },
+    {
+      "word": "peso",
+      "gender": "m"
+    },
+    {
+      "word": "humedad",
+      "gender": "f"
+    },
+    {
+      "word": "esposa",
+      "gender": "f"
+    },
+    {
+      "word": "esposo",
+      "gender": "m"
+    },
+    {
+      "word": "viento",
+      "gender": "m"
+    },
+    {
+      "word": "ventana",
+      "gender": "f"
+    },
+    {
+      "word": "madera",
+      "gender": "f"
+    },
+    {
+      "word": "hierro",
+      "gender": "m"
+    },
+    {
+      "word": "mundo",
+      "gender": "m"
+    },
+    {
+      "word": "año",
+      "gender": "m"
+    }
+  ]
+}

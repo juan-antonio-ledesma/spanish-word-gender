@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>SPANISH WORD GENDER</title>
+    <meta name="description" content="Choose the correct gender of the word">
+    <link rel="canonical" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/">
+
+    <link rel="icon" sizes="192x192" href="/images/touch/swg-192.png">
+    <link rel="apple-touch-icon" href="/images/touch/swg-192.png">
+
+    <link rel="manifest" href="manifest.json">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="application-name" content="SWG">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="SWG">
+
+    <meta name="msapplication-TileImage"
+        content="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-144.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="theme-color" content="#FFFFFF">
+
+    <meta property="og:title" content="SPANISH WORD GENDER">
+    <meta property="og:type" content="website">
+    <meta property="og:image"
+        content="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-192.png">
+    <meta property="og:url" content="https://juan-antonio-ledesma.github.io/spanish-word-gender/">
+    <meta property="og:description" content="Choose the correct gender of the word">
+
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-512.png"
+        sizes="512x512">
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-192.png"
+        sizes="192x192">
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-144.png"
+        sizes="144x144">
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-96.png"
+        sizes="96x96">
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-72.png"
+        sizes="72x72">
+    <link rel="icon" href="https://juan-antonio-ledesma.github.io/spanish-word-gender/images/touch/swg-48.png"
+        sizes="48x48">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="swg">
+        <header class="swg__header">
+            <h1 class="swg__title">spanish w<span class="swg__title-decoration">o</span>rd gender</h1>
+            <h2 class="swg__subtitle">choose the correct gender of the word</h2>
+
+            <div class="swg__punctuation-container">
+                <p class="swg__punctuation">score: <span id="right-answers" class="swg__right-answers">0</span></p>
+                <p id="plus-one" class="swg__plus-one">+1</p>
+            </div>
+        </header>
+
+        <p id="word-container" class="swg__word-container">
+            <span id="error" class="swg__error"></span>
+            <span id="word" data-gender="" class="swg__word">???</span>
+        </p>
+
+        <div class="swg__buttons-container">
+            <button class="swg__button swg__button--male" id="button-male">el</button>
+            <button class="swg__button swg__button--female" id="button-female">la</button>
+        </div>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>

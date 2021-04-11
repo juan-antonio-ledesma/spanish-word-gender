@@ -1,0 +1,41 @@
+{
+	"name": "SPANISH WORD GENDER",
+	"short_name": "SWG",
+	"icons": [
+		{
+			"src": "images/touch/swg-48.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "images/touch/swg-72.png",
+			"type": "image/png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "images/touch/swg-96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "images/touch/swg-144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "images/touch/swg-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "images/touch/swg-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "https://juan-antonio-ledesma.github.io/spanish-word-gender/",
+	"orientation": "portrait",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#FFFFFF"
+}
