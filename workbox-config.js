@@ -8,7 +8,7 @@ module.exports = {
     'workbox-config.js',
     'src/js/index.js',
     'src-sw.js',
-    'resources/logo.svg',
+    'graphic-resources/logo.svg',
     'node_modules/**/*',
   ],
   swDest: './sw.js',

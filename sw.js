@@ -13,10 +13,6 @@ workbox.precaching.precacheAndRoute([
     url: 'fonts/RobotoSlab-Light.ttf',
   },
   {
-    revision: 'cb70508e82dbcf15497a69132ffe92bb',
-    url: 'graphic-resources/logo.svg',
-  },
-  {
     revision: '1cbf290f274d230a3b576723a314c7e8',
     url: 'images/background.jpg',
   },
