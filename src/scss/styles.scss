@@ -2,13 +2,13 @@
 @import 'px-to-rem';
 
 // Colors
-$male: #3c54ff;
-$female: #e1024b;
-$white: #ffffff;
-$dark: #111111;
-$grey: #575757;
-$light-grey: #888888;
-$success: #00b233;
+$male: #3c54ff !default;
+$female: #e1024b !default;
+$white: #ffffff !default;
+$dark: #111111 !default;
+$grey: #575757 !default;
+$light-grey: #888888 !default;
+$success: #00b233 !default;
 
 // Fonts
 @font-face {

@@ -3,7 +3,7 @@ importScripts(
 )
 
 workbox.precaching.precacheAndRoute([
-  { revision: '4b058dfe6c664578b069f2d2b0094e77', url: 'css/style.css' },
+  { revision: '4b058dfe6c664578b069f2d2b0094e77', url: 'css/styles.css' },
   { revision: 'd855d1947cb4c76abe91aee5407e3593', url: 'fonts/icomoon.eot' },
   { revision: '83e6dc6cf3ff029f0ae54193356a67f3', url: 'fonts/icomoon.svg' },
   { revision: '0fb7dc6b60fa9acbe6dd16f99c3adbd1', url: 'fonts/icomoon.ttf' },
@@ -40,9 +40,8 @@ workbox.precaching.precacheAndRoute([
     revision: '218e1c65c6183f64687fd601f49d2cf4',
     url: 'images/touch/swg-96.png',
   },
-  { revision: 'f55172abe6da29df7689ef42d1fbbdb8', url: 'index.html' },
+  { revision: '06b6c296ebf102b3678b9c304a02c30e', url: 'index.html' },
   { revision: '7b49cf1c6cd53943306a89e9637769d6', url: 'js/index.js' },
-  { revision: 'f4c781e88a530e0d053078aa63106fbb', url: 'js/sw.js' },
   { revision: 'ba3fafca28b7e3c59989f6dc1f4b4348', url: 'js/words.json' },
   { revision: '26fad5d1bb58812772384420deae4dc4', url: 'manifest.json' },
 ])
